@@ -1,0 +1,9 @@
+let wordperfect;
+wordperfect="Anna the best";
+
+let wordgreat;
+wordgreat="Аньчик супер"
+
+window.alert(wordperfect);
+window.alert(wordgreat);
+window.alert("Anna the best3");	
